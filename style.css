@@ -55,12 +55,12 @@ h4{
 	background-size: 100%;
 	width: 363px;
 	height: 344px;
-	position: absolute; top: 117px; right: 89px;
+	position: absolute; top: 10%; right: 10%;
 	transform: rotate(15deg);
 }
 
 .character2{
-	background: url(img/hat-guy.png) no-repeat 0 0;
+	background: url(img/eish-guy.png) no-repeat 0 0;
 	background-size: 100%;
 	width: 309px;
 	height: 371px;
@@ -68,7 +68,7 @@ h4{
 }
 
 .character3{
-	background: url(img/eish-guy.png) no-repeat 0 0;
+	background: url(img/hat-guy.png) no-repeat 0 0;
 	background-size: 100%;
 	width: 297px;
 	height: 286px;
