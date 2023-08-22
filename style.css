@@ -152,3 +152,20 @@ nav ul li a{
 .more-info{
 	text-align: center;
 }
+
+.more-info h2{
+	margin-bottom: 50px 0 0;
+}
+
+.more-info p{
+	margin-bottom: 18px 0 35px;
+}
+
+.highlight{
+	background-color: #ffadf9;
+	color: #ff3300;
+	padding: 5px 10px;
+	line-height: 50px;
+	display: inline;
+	font-weight: 800;
+}
